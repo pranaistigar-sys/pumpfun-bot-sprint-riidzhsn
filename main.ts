@@ -9,8 +9,8 @@
 // exits. Two selections earn size:
 //   1. Dispersed momentum — a curve that has already run 1.5-3x on broad,
 //      dispersed buying (25+ distinct buyers, 8+ SOL net inflow, no single
-//      buyer over 15% of buy SOL, creator not selling). Buy 0.10 SOL, take
-//      +30%, stop -25%, give up after 2000 slots.
+//      buyer over 15% of buy SOL, creator not selling). Buy 0.20 SOL, take
+//      +30%, stop -20%, give up after 3000 slots.
 //   2. Completion ride — a curve whose real SOL reserve has crossed 50 SOL
 //      is close to bonding-curve completion (completers finish at ~14.7x
 //      create price). Buy 0.50 SOL, stop -15%, hold up to 3000 slots, no
